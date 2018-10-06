@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "crdts": "~0.1.2",
-    "orbit-db-store": "github:orbitdb/orbit-db-store"
+    "orbit-db-store": "github:thiagodelgado111/orbit-db-store#fix/sync"
   }
 }
